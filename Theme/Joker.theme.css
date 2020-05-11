@@ -487,6 +487,7 @@ background-color: rgba(200,90,20,1);
     color: #fff;
 }
 .inner-1ilYF7{
+	border-radius: 7px;
 	background-image: url(https://i.imgur.com/lyXkFxf.jpg);
 }
 .container-3qKHyN{
@@ -1832,11 +1833,12 @@ body>div:last-of-type {
 }
 
 .theme-dark .uploadModal-2ifh8j {
-    box-shadow: 0 0 0 1px var(--main-color);
+	border-radius: 7px;
+    box-shadow: 0 0 0 1px rgba(255,90,20,1);
 }
 
 .theme-dark .footer-3mqk7D {
-    box-shadow: inset 0 1px 0 var(--main-color);
+    box-shadow: inset 0 1px 0 rgba(255,90,20,1);
 }
 
 .theme-dark .inner-zqa7da {
@@ -1870,6 +1872,7 @@ body>div:last-of-type {
 .actionButton-uPB8Fs {
     background-color: rgba(0,0,0,0.0);
 }
+
 
 .wrapper-3D2qGf {
     background-color: rgba(0,0,0,0.4);
@@ -2418,7 +2421,7 @@ background-color: rgba(200,90,20,1);
 	background-color: rgba(0,0,0,0.7);
 }
 .full-motion .translate-2dAEQ6.didRender-33z1u8{
-	border-radius: 5px;
+	border-radius: 10px;
 	background-image: url(https://i.imgur.com/lyXkFxf.jpg);
 }
 .container-2Uhd6d{
@@ -2485,6 +2488,7 @@ background-color: rgba(200,90,20,1);
 	color: rgba(255,80,20,1);
 }
 .drawerSizingWrapper-27qFHb{
+	border-radius: 8px;
 	background-image: url(https://i.imgur.com/lyXkFxf.jpg);
 }
 .contentWrapper-2txmjs{
@@ -2753,6 +2757,13 @@ background-image: linear-gradient(315deg, #a40606 0%, #d98324 74%);
 }
 .container-1r6BKw.themed-ANHk51{
 	background-color: rgba(0,0,0,0);
+}
+.content-3O0wBS{
+	background-color: rgba(200,90,20,1);
+  background-image: linear-gradient(to top, rgba(0,0,0,1), rgba(200,90,20,1)); 
+}
+.theme-dark .outer-1AjyKL.active-1xchHY, .theme-dark .outer-1AjyKL.interactive-3B9GmY:hover{
+	background-color: rgba(200,90,20,.4);
 }
 /* THIS IS FOR ANIMATION OF GUILD MEMEBRS*/
 
