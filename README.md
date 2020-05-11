@@ -1,6 +1,7 @@
 # BD-Joker-Theme
 Theme based on Joker character for BetterDiscord users!
 
+**Theme File loacted in "theme" folder**
 
 **Custome made register and login screen.**
 
