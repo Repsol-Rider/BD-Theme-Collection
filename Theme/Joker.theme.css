@@ -2748,6 +2748,12 @@ background-image: linear-gradient(315deg, #a40606 0%, #d98324 74%);
     -webkit-box-shadow: inset 0 0 0 2px #7289da, inset 0 0 0 3px #2f3136;
     box-shadow: inset 0 0 0 2px rgba(255,90,20,1), inset 0 0 0 3px #2f3136;
 }
+.chat-3bRxxu, .form-2fGMdU{
+	background-color: rgba(0,0,0,.8)
+}
+.container-1r6BKw.themed-ANHk51{
+	background-color: rgba(0,0,0,0);
+}
 /* THIS IS FOR ANIMATION OF GUILD MEMEBRS*/
 
 .da-membersWrap {
