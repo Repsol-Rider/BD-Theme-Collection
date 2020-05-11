@@ -2623,8 +2623,8 @@ background-image: linear-gradient(315deg, #a40606 0%, #d98324 74%) !important;
 	border-radius: 3px;
 }
 .descriptionBox-1EKQKL{
-	background-color: #a40606;
-background-image: linear-gradient(315deg, #a40606 0%, #d98324 74%);
+	background-color: rgba(200,90,20,1);
+  background-image: linear-gradient(to left, rgba(0,0,0,1), rgba(200,90,20,1)); 
 }
 .descriptionBox-1EKQKL h5{
 	color: white !important;
@@ -2651,32 +2651,32 @@ background-image: linear-gradient(315deg, #a40606 0%, #d98324 74%);
 	fill: currentcolor;
 }
 .theme-dark.authBox-hW6HRx{
-	background-color: #eec0c6;
-background-image: linear-gradient(315deg, #eec0c6 0%, #7ee8fa 74%);
+	background-color: rgba(200,90,20,1);
+  background-image: linear-gradient(to top, rgba(0,0,0,1), rgba(200,90,20,1)); 
 }
 .block-egJnc0 h5{
-	color: black !important;
+	color: white !important;
 }
 .lookLink-9FtZy-.colorBrand-3pXr91 div{
-	color: rgba(83, 51, 237, 1);
+	color: rgba(82, 179, 217, 1);
 }
 .mainLoginContainer-1ddwnR .colorHeaderPrimary-26Jzh-{
-	color: black !important;
+	color: white !important;
 }
 .mainLoginContainer-1ddwnR .colorHeaderSecondary-3Sp3Ft{
-	color: #000;
+	color: #fff;
 }
 .block-egJnc0 .lookFilled-1Gx00P.colorBrand-3pXr91{
 	background-color: rgba(82, 179, 217, 1) !important;
 }
 .block-egJnc0 .lookFilled-1Gx00P.colorBrand-3pXr91:hover{
-	background-color: rgba(83, 51, 237, 1) !important;
+	background-color: rgba(83, 159, 237, 1) !important;
 }
 .qrLoginInner-c_7ePj .colorHeaderPrimary-26Jzh-{
-	color: black;
+	color: white;
 }
 .qrLoginInner-c_7ePj .colorHeaderSecondary-3Sp3Ft{
-	color: black;
+	color: white;
 }
 .qrLoginInner-c_7ePj .colorHeaderSecondary-3Sp3Ft strong{
 	color: rgba(82, 179, 217, 1) !important;
@@ -2689,7 +2689,7 @@ background-image: linear-gradient(315deg, #eec0c6 0%, #7ee8fa 74%);
 	border-color: rgba(83, 51, 237, 1) !important;
 }
 .subText-1XkjIB a{
-	color: rgba(83, 51, 237, 1) !important;
+	color: rgba(82, 179, 217, 1) !important;
 }
 .theme-dark .description-1EvxpH.success-t0oxXf, .theme-light .description-1EvxpH.success-t0oxXf{
 	color: rgba(255,90,20,1);
@@ -2739,6 +2739,14 @@ background-image: linear-gradient(315deg, #eec0c6 0%, #7ee8fa 74%);
 .bd-server-card.bd-server-card-pinned:after{
 	background-color: rgba(200,90,20,1);
   background-image: linear-gradient(to left, rgba(255,255,255,1), rgba(255,90,20,1)); 
+}
+.wrapper-39oAo3{
+	background-color: rgba(200,90,20,1);
+  background-image: linear-gradient(to left, rgba(0,0,0,1), rgba(200,90,20,1)); 
+}
+.theme-dark .focused-1En8bG:after, .theme-dark .result-3w1ZcL:hover:after {
+    -webkit-box-shadow: inset 0 0 0 2px #7289da, inset 0 0 0 3px #2f3136;
+    box-shadow: inset 0 0 0 2px rgba(255,90,20,1), inset 0 0 0 3px #2f3136;
 }
 /* THIS IS FOR ANIMATION OF GUILD MEMEBRS*/
 
