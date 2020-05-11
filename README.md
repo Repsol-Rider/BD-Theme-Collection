@@ -18,3 +18,5 @@ Theme based on Joker character for BetterDiscord users!
 
 
 **Added background images for use profile pop up windows.**
+
+![Login-Screen](/images/login.jpg)
