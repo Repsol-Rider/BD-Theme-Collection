@@ -489,7 +489,7 @@ background-color: var(--background-color);
 }
 .inner-1ilYF7{
 	border-radius: 7px;
-	background-image: var(--background-image-lansdscape);
+	background-image: var(--background-image-landscape);
 }
 .container-3qKHyN{
 	backdrop-filter: blur(20px);
@@ -756,7 +756,7 @@ div.unread-mentions-indicator-bottom {
 }
 
 [class~=app] {
-    background: var(--background-image-lansdscape) !important;
+    background: var(--background-image-landscape) !important;
     background-size: cover !important;
 }
 
@@ -773,7 +773,7 @@ div.unread-mentions-indicator-bottom {
     overflow: hidden;
     position: absolute;
     width: 100vw;
-    background: var(--background-image-lansdscape) !important;
+    background: var(--background-image-landscape) !important;
     background-size: cover !important;
 }
 
@@ -1710,7 +1710,7 @@ background-image: var(--background-gradient-to-left);
 }
 
 body>div:last-of-type {
-    background: var(--background-image-lansdscape) !important;
+    background: var(--background-image-landscape) !important;
     background-size: cover !important;
 }
 
@@ -1725,7 +1725,7 @@ body>div:last-of-type {
 }
 
 .app-2rEoOp {
-    background-color: var(--background-image-lansdscape);
+    background-color: var(--background-image-landscape);
 }
 
 .platform-win .sidebar-2K8pFh {
@@ -2151,7 +2151,7 @@ svg{
 
 .css-n57xjs-menu{
 	background-color: var(--background-color);
-background-image: var(--background-gradient-315); 
+background-image: var(--background-gradient-to-315); 
 
 }
 .theme-dark .codeRedemptionRedirect-1wVR4b{
@@ -2238,7 +2238,7 @@ background-image: var(--background-gradient-315);
 }
 .theme-dark .notDetected-33MY4s, .theme-light .notDetected-33MY4s{
 background-color: var(--background-color);
-background-image: var(--background-gradient-315); 
+background-image: var(--background-gradient-to-315); 
 }
 
 .lookLink-9FtZy- .contents-18-Yxp{
@@ -2490,7 +2490,7 @@ background-color: var(--background-hover);
 }
 .drawerSizingWrapper-27qFHb{
 	border-radius: 8px;
-	background-image: var(--background-image-lansdscape);
+	background-image: var(--background-image-landscape);
 }
 .contentWrapper-2txmjs{
 	background: rgba(0,0,0,.6);
@@ -2569,19 +2569,19 @@ background-color: var(--background-hover);
 }
 .theme-dark .tierHeaderUnlocked-1n-OTI, .theme-light .tierHeaderUnlocked-1n-OTI{
 	background-color: var(--background-color);
-	background-image: var(--background-gradient-315);
+	background-image: var(--background-gradient-to-315);
 }
 .barForeground-3KglC8{
 	background-color: var(--background-color);
-	background-image: var(--background-gradient-315);
+	background-image: var(--background-gradient-to-315);
 }
 .theme-dark .selectedTier-1JkO7i .tierMarker-5HkGJ_, .theme-light .selectedTier-1JkO7i .tierMarker-5HkGJ_{
 	background-color: var(--background-color) !important;
-	background-image: var(--background-gradient-315) !important;
+	background-image: var(--background-gradient-to-315) !important;
 }
 .tierMarkerAccomplished-2MiXeg, .tierMarkerInProgress-24LMzJ{
 	background-color: var(--background-color) !important;
-	background-image: var(--background-gradient-315) !important;
+	background-image: var(--background-gradient-to-315) !important;
 }
 .theme-dark .iconWrapper-3LVgIo{
 	background-color: var(--main-color);
@@ -2645,14 +2645,14 @@ background-color: var(--background-hover);
 }
 .tier-3H4BXk{
 	background-color: var(--background-color);
-	background-image: var(--background-gradient-315);
+	background-image: var(--background-gradient-to-315);
 }
 .theme-dark .tierAccomplished-2eXPdI, .theme-dark .tierCurrent-Lw7-4E, .theme-dark .tierDefault-2qaRkD, .theme-light .tierAccomplished-2eXPdI, .theme-light .tierCurrent-Lw7-4E, .theme-light .tierDefault-2qaRkD{
 	background: var(--main-color);
 }
 .theme-dark .overflowRolesPopout-140n9i, .theme-dark .overflowRolesPopoutArrow-2O66oH{
 	background-color: var(--background-color);
-	background-image: var(--background-gradient-315);
+	background-image: var(--background-gradient-to-315);
 }
 
 .attachButtonPlus-jWVFah{
@@ -2942,7 +2942,7 @@ background-image: var(--background-gradient-to-left);
 	/*
     background landscape image
     */
-	--background-image-lansdscape: url(https://i.imgur.com/fafLnSh.jpg);
+	--background-image-landscape: url(https://i.imgur.com/fafLnSh.jpg);
 
 	/*
     Change your friends icon image
