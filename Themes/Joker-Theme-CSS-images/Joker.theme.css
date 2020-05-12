@@ -2828,7 +2828,7 @@ background-image: linear-gradient(315deg, #a40606 0%, #d98324 74%);
     Change your friends icon image zoom
     Default: 100% 
     */
-    --friends-icon-zoom: 100%;
+    --friends-icon-zoom: 180%;
 
     /*
     Change the main theme color
