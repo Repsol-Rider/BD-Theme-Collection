@@ -4,6 +4,11 @@ Theme based on Joker character for BetterDiscord users! head over to "Themes/Jok
 ![Joker-Theme](Themes/Joker-Theme-CSS-images/Theme-images/user-info.jpg)
 
 # BD-Captain-America-Theme
-The based on Captain America Character for BetterDsicord users! head over to "Themes/Captain-America-Theme-CSS-images" this folder to find out more about the Captian America Theme
+Theme based on Captain America Character for BetterDsicord users! head over to "Themes/Captain-America-Theme-CSS-images" this folder to find out more about the Captian America Theme
 
 ![Captain-America-Theme](Themes/Captain-America-Theme-CSS-images/Theme-images/user-info.jpg)
+
+# BD-The-Flash-Theme
+Theme based on The Flash Character for BetterDsicord users! head over to "Themes/The-Flash-Theme-CSS-images" this folder to find out more about the Flash Theme
+
+![The-Flash-Theme](Themes/The-Flash-Theme-CSS-images/Theme-images/user-info.jpg)
