@@ -34,6 +34,6 @@ Theme based on Flash character for BetterDiscord users!
 
 ![user-info-screen](Theme-images/user-info.jpg)
 
-![user-pop=up-windows-screen](Theme-images/user-pop-up-window.jpg)
+![user-pop-up-windows-screen](Theme-images/user-pop-up-window.jpg)
 
 ![emoji-background-screen](Theme-images/emoji-background.jpg)
