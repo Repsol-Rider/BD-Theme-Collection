@@ -22,20 +22,20 @@ Theme based on Joker character for BetterDiscord users!
 
 **Use dark mode to use the theme**
 
-![server-chat-screen](Theme-Images/server-chat.jpg)
+![server-chat-screen](Theme-images/server-chat.jpg)
 
-![friends-panel-screen](Theme-Images/friends-panel.jpg)
+![friends-panel-screen](Theme-images/friends-panel.jpg)
 
-![login-screen](Theme-Images/login.jpg)
+![login-screen](Theme-images/login.jpg)
 
-![register-screen](Theme-Images/register.jpg)
+![register-screen](Theme-images/register.jpg)
 
-![server-settings-screen](Theme-Images/server-settings.jpg)
+![server-settings-screen](Theme-images/server-settings.jpg)
 
-![user-settings-screen](Theme-Images/user-settings.jpg)
+![user-settings-screen](Theme-images/user-settings.jpg)
 
-![user-info-screen](Theme-Images/user-info.jpg)
+![user-info-screen](Theme-images/user-info.jpg)
 
-![user-pop=up-windows-screen](Theme-Images/user-pop-up-window.jpg)
+![user-pop=up-windows-screen](Theme-images/user-pop-up-window.jpg)
 
-![emoji-background-screen](Theme-Images/emoji-background.jpg)
+![emoji-background-screen](Theme-images/emoji-background.jpg)
