@@ -1638,7 +1638,8 @@ padding: 0 !important;
 }
 
 .unread-1xRYoj {
-    background-color: rgba(255,255,255,.35);
+    background-color: rgba(200,90,20,1);
+  background-image: linear-gradient(to left, rgba(0,0,0,1), rgba(200,90,20,1)); 
 }
 
 .wrapper-CU3qI5:hover {
