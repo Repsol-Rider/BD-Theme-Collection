@@ -12,3 +12,8 @@ Theme based on Captain America Character for BetterDsicord users! head over to "
 Theme based on The Flash Character for BetterDsicord users! head over to "Themes/The-Flash-Theme-CSS-images" this folder to find out more about the Flash Theme
 
 ![The-Flash-Theme](Themes/The-Flash-Theme-CSS-images/Theme-images/user-info.jpg)
+
+# BD-Hulk-Theme
+Theme based on Hulk Character for BetterDsicord users! head over to "Themes/Hulk-Theme-CSS-images" this folder to find out more about the Hulk Theme
+
+![Hulk-Theme](Themes/Hulk-Theme-CSS-images/Theme-images/user-info.jpg)
