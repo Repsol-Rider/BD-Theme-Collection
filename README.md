@@ -7,7 +7,7 @@ Using theme files and plugins you can redevelop discord with your own idealistic
 
 Download Bandaged BD - https://github.com/rauenzi/BetterDiscordApp/releases/latest/download/BandagedBD_Windows.exe
 
-Also Join Their Discord Server to know how to install and develop your own theme ;)
+Also Join Their Discord Server to know how to install and develop your own theme and plugins ;)
 
 Bandaged BD official Discord Serve - https://discord.gg/0Tmfo5ZbORCRqbAd
 
