@@ -1,4 +1,4 @@
-#Welcome to my new repository based on Discord Themes! 
+# Welcome to my new repository based on Discord Themes! 
 
 You already know that we can't make ourself a theme in discord, here comes Bandaged Better Discord, what it is? well its an application which will injects itself into discord and gives you options to load theme files which should be in formate like this
 "(your-theme-name).theme.css" and plugin which should be in the formate "(your-plugin-name).plugin.json".
