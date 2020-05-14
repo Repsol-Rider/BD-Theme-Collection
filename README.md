@@ -9,7 +9,7 @@ Download Bandaged BD - https://github.com/rauenzi/BetterDiscordApp/releases/late
 
 Also Join Their Discord Server to know how to install and develop your own theme and plugins ;)
 
-Bandaged BD official Discord Serve - https://discord.gg/0Tmfo5ZbORCRqbAd
+Bandaged BD official Discord Server - https://discord.gg/0Tmfo5ZbORCRqbAd
 
 # BD-Joker-Theme
 Theme based on Joker character for BetterDiscord users! head over to "Themes/Joker-Theme-CSS-images" this folder to find our more about the Joker Theme
